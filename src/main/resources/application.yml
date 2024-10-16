@@ -1,0 +1,7 @@
+server:
+  port: 8090
+
+# 木马程序演示读取内容
+#spring:
+#  datasource:
+#    password: 123456
